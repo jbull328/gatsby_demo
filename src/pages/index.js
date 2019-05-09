@@ -61,7 +61,7 @@ export const query = graphql`
             title
             date
           }
-          feilds {
+          fields {
             slug
           }
           excerpt
